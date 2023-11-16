@@ -1,1 +1,1 @@
-A quick website for a presentation where the audience is asked to choose specific states based on questions.
+A quick website for a presentation where the audience is asked to choose specific states based on questions. Basic form submission on a web page with interactive map, additionally a page where the results are shown.
